@@ -10,4 +10,4 @@ import ScreenOrientation from './screens/ScreenOrientation'
 import InternetConnnectionStatus from './screens/InternetConnnectionStatus';
 import LinkPhoneSMSEmailURL from './screens/LinkPhoneSMSEmailURL';
 
-AppRegistry.registerComponent(appName, () => ScreenWidthHeight)
+AppRegistry.registerComponent(appName, () => LinkPhoneSMSEmailURL)
